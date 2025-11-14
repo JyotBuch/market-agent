@@ -1,0 +1,35 @@
+{
+  "ticker": "JIOFIN.NS",
+  "company_name": "Jio Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "current_price": 310.7,
+  "previous_close": 309.5,
+  "change": 1.2,
+  "change_percent": 0.39,
+  "volume": 15761850,
+  "market_cap": 1973921251328,
+  "pe_ratio": 123.78487,
+  "recommendation": "HOLD",
+  "rationale": "Near 52-week high",
+  "confidence": 0.2,
+  "metrics": {
+    "returns": {
+      "last_month": 1.67
+    },
+    "moving_averages": {
+      "ma_20": 307.23,
+      "price_vs_ma_20": 1.13,
+      "ma_50": 307.82,
+      "price_vs_ma_50": 0.94,
+      "trend": "FLAT"
+    },
+    "proximity": {
+      "52w_high": 344.66,
+      "52w_low": 200.61,
+      "distance_from_high": -9.85,
+      "distance_from_low": 54.88
+    }
+  },
+  "last_updated": "2025-11-13T19:32:12.927085"
+}

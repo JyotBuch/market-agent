@@ -1,0 +1,35 @@
+{
+  "ticker": "ADANIPOWER.NS",
+  "company_name": "Adani Power Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "current_price": 151.85,
+  "previous_close": 151.98,
+  "change": -0.13,
+  "change_percent": -0.09,
+  "volume": 20557325,
+  "market_cap": 3042448769024,
+  "pe_ratio": 24.852701,
+  "recommendation": "HOLD",
+  "rationale": "Mixed signals",
+  "confidence": 0.0,
+  "metrics": {
+    "returns": {
+      "last_month": -3.59
+    },
+    "moving_averages": {
+      "ma_20": 159.42,
+      "price_vs_ma_20": -4.75,
+      "ma_50": 148.46,
+      "price_vs_ma_50": 2.29,
+      "trend": "FLAT"
+    },
+    "proximity": {
+      "52w_high": 170.78,
+      "52w_low": 87.53,
+      "distance_from_high": -11.08,
+      "distance_from_low": 73.48
+    }
+  },
+  "last_updated": "2025-11-13T19:32:13.639530"
+}

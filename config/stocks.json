@@ -19,7 +19,11 @@
     "TECHM.NS",
     "ULTRACEMCO.NS",
     "TATASTEEL.NS",
-    "SUNPHARMA.NS"
+    "SUNPHARMA.NS",
+    "INDHOTEL.NS",
+    "JIOFIN.NS",
+    "ADANIPOWER.NS",
+    "MOTILALOFS.NS"
   ],
   "description": "List of Indian stock tickers to track. Use .NS for NSE or .BO for BSE suffix."
 }
