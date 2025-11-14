@@ -5,8 +5,8 @@
 import axios from 'axios';
 import type { StockSummary, PriceData } from '../types';
 
-// Base URL for data - empty for dev (served from public), set for production
-const BASE_URL = import.meta.env.VITE_DATA_URL || '';
+// Base URL for data - use Vite's base path (handles both dev and production)
+const BASE_URL = import.meta.env.BASE_URL || '/';
 
 /**
  * Fetch summary data for a specific ticker
