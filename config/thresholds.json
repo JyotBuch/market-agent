@@ -1,0 +1,22 @@
+{
+  "recommendation": {
+    "sharpe_threshold_buy": 0.5,
+    "sharpe_threshold_sell": -0.3,
+    "trend_weight": 0.3,
+    "return_weight": 0.4,
+    "proximity_weight": 0.3,
+    "proximity_to_low_buy_threshold": 15,
+    "proximity_to_high_sell_threshold": 10,
+    "moving_average_threshold_days": 20,
+    "volatility_high_threshold": 0.4
+  },
+  "metrics": {
+    "lookback_years": 3,
+    "quarterly_periods": 4,
+    "monthly_periods": 12,
+    "ma_short_days": 20,
+    "ma_long_days": 50,
+    "min_data_points": 252
+  },
+  "description": "Configurable thresholds for recommendation engine and metrics calculation"
+}

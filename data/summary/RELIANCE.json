@@ -1,0 +1,45 @@
+{
+  "ticker": "RELIANCE.NS",
+  "company_name": "Reliance Industries Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "current_price": 2456.75,
+  "previous_close": 2440.30,
+  "change": 16.45,
+  "change_percent": 0.67,
+  "volume": 5823000,
+  "market_cap": 16620000000000,
+  "pe_ratio": 28.5,
+  "recommendation": "BUY",
+  "rationale": "Uptrend | Strong monthly return (4.2%) | Strong risk-adjusted returns",
+  "confidence": 0.85,
+  "metrics": {
+    "returns": {
+      "last_month": 4.2,
+      "monthly_mean": 2.1,
+      "monthly_std": 5.8,
+      "last_quarter": 8.5,
+      "quarterly_mean": 6.2,
+      "quarterly_std": 8.3,
+      "ytd": 12.4,
+      "last_year": 15.8,
+      "yearly_mean": 18.5,
+      "yearly_std": 12.4,
+      "volatility": 0.28
+    },
+    "moving_averages": {
+      "ma_20": 2420.50,
+      "price_vs_ma_20": 1.5,
+      "ma_50": 2380.20,
+      "price_vs_ma_50": 3.2,
+      "trend": "UP"
+    },
+    "proximity": {
+      "52w_high": 2580.00,
+      "52w_low": 2150.00,
+      "distance_from_high": -4.8,
+      "distance_from_low": 14.3
+    }
+  },
+  "last_updated": "2025-11-13T10:30:00.000000"
+}

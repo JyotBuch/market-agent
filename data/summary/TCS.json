@@ -1,0 +1,45 @@
+{
+  "ticker": "TCS.NS",
+  "company_name": "Tata Consultancy Services Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 3850.60,
+  "previous_close": 3875.20,
+  "change": -24.60,
+  "change_percent": -0.63,
+  "volume": 2145000,
+  "market_cap": 14100000000000,
+  "pe_ratio": 32.8,
+  "recommendation": "HOLD",
+  "rationale": "Mixed signals | Weak monthly return (-2.1%)",
+  "confidence": 0.45,
+  "metrics": {
+    "returns": {
+      "last_month": -2.1,
+      "monthly_mean": 1.2,
+      "monthly_std": 4.5,
+      "last_quarter": 3.2,
+      "quarterly_mean": 5.8,
+      "quarterly_std": 6.5,
+      "ytd": 8.5,
+      "last_year": 12.3,
+      "yearly_mean": 14.2,
+      "yearly_std": 10.8,
+      "volatility": 0.22
+    },
+    "moving_averages": {
+      "ma_20": 3890.40,
+      "price_vs_ma_20": -1.0,
+      "ma_50": 3870.80,
+      "price_vs_ma_50": -0.5,
+      "trend": "FLAT"
+    },
+    "proximity": {
+      "52w_high": 4150.00,
+      "52w_low": 3420.00,
+      "distance_from_high": -7.2,
+      "distance_from_low": 12.6
+    }
+  },
+  "last_updated": "2025-11-13T10:30:00.000000"
+}

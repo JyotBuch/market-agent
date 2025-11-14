@@ -1,0 +1,34 @@
+{
+  "name": "market-agent",
+  "version": "1.0.0",
+  "description": "Indian stock market analysis dashboard with Buy/Hold/Sell recommendations",
+  "scripts": {
+    "fetch-data": "python scripts/fetch_data.py",
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview",
+    "install-frontend": "cd frontend && npm install",
+    "install-backend": "pip install -r requirements.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JyotBuch/market-agent.git"
+  },
+  "keywords": [
+    "stock-market",
+    "indian-stocks",
+    "nse",
+    "bse",
+    "technical-analysis",
+    "portfolio",
+    "react",
+    "typescript",
+    "python"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JyotBuch/market-agent/issues"
+  },
+  "homepage": "https://github.com/JyotBuch/market-agent#readme"
+}
