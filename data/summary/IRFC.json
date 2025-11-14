@@ -1,0 +1,35 @@
+{
+  "ticker": "IRFC.NS",
+  "company_name": "Indian Railway Finance Corporation Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 120.75,
+  "previous_close": 121.59,
+  "change": -0.84,
+  "change_percent": -0.69,
+  "volume": 4559201,
+  "market_cap": 1600214794240,
+  "pe_ratio": 23.043894,
+  "recommendation": "HOLD",
+  "rationale": "Downtrend | Near 52-week low",
+  "confidence": 0.1,
+  "metrics": {
+    "returns": {
+      "last_month": -2.49
+    },
+    "moving_averages": {
+      "ma_20": 122.73,
+      "price_vs_ma_20": -1.61,
+      "ma_50": 123.88,
+      "price_vs_ma_50": -2.53,
+      "trend": "DOWN"
+    },
+    "proximity": {
+      "52w_high": 162.51,
+      "52w_low": 109.51,
+      "distance_from_high": -25.7,
+      "distance_from_low": 10.26
+    }
+  },
+  "last_updated": "2025-11-13T19:39:28.353240"
+}

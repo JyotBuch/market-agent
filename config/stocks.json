@@ -23,7 +23,9 @@
     "INDHOTEL.NS",
     "JIOFIN.NS",
     "ADANIPOWER.NS",
-    "MOTILALOFS.NS"
+    "MOTILALOFS.NS",
+    "IRFC.NS",
+    "MON100.NS"
   ],
   "description": "List of Indian stock tickers to track. Use .NS for NSE or .BO for BSE suffix."
 }
