@@ -15,7 +15,9 @@ export const fetchStockSummary = async (ticker: string): Promise<StockSummary> =
   try {
     // Remove .NS suffix for file lookup (ticker should already be clean from getTickerName)
     const fileTicker = ticker.replace('.NS', '').replace('.BO', '');
-    const url = `${BASE_URL}/data/summary/${fileTicker}.json`;
+    // Remove trailing slash from BASE_URL to prevent double slashes
+    const baseUrl = BASE_URL.endsWith('/') ? BASE_URL.slice(0, -1) : BASE_URL;
+    const url = `${baseUrl}/data/summary/${fileTicker}.json`;
     console.log('Fetching summary from:', url);
     const response = await axios.get(url);
     console.log('Successfully fetched:', fileTicker);
@@ -34,7 +36,9 @@ export const fetchPriceHistory = async (ticker: string): Promise<PriceData[]> =>
   try {
     // Remove .NS suffix for file lookup
     const fileTicker = ticker.replace('.NS', '');
-    const response = await axios.get(`${BASE_URL}/data/prices/${fileTicker}.json`);
+    // Remove trailing slash from BASE_URL to prevent double slashes
+    const baseUrl = BASE_URL.endsWith('/') ? BASE_URL.slice(0, -1) : BASE_URL;
+    const response = await axios.get(`${baseUrl}/data/prices/${fileTicker}.json`);
     return response.data;
   } catch (error) {
     console.error(`Error fetching prices for ${ticker}:`, error);
@@ -47,7 +51,9 @@ export const fetchPriceHistory = async (ticker: string): Promise<PriceData[]> =>
  */
 export const fetchAvailableTickers = async (): Promise<string[]> => {
   try {
-    const response = await axios.get(`${BASE_URL}/config/stocks.json`);
+    // Remove trailing slash from BASE_URL to prevent double slashes
+    const baseUrl = BASE_URL.endsWith('/') ? BASE_URL.slice(0, -1) : BASE_URL;
+    const response = await axios.get(`${baseUrl}/config/stocks.json`);
     return response.data.tickers;
   } catch (error) {
     console.error('Error fetching tickers:', error);
