@@ -1,0 +1,35 @@
+{
+  "ticker": "INFY.NS",
+  "company_name": "Infosys Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 1541.8,
+  "previous_close": 1551.7,
+  "change": -9.9,
+  "change_percent": -0.64,
+  "volume": 19645690,
+  "market_cap": 6391239016448,
+  "pe_ratio": 21.981752,
+  "recommendation": "BUY",
+  "rationale": "Uptrend | Strong monthly return (6.17%) | Near 52-week low",
+  "confidence": 0.7,
+  "metrics": {
+    "returns": {
+      "last_month": 6.17
+    },
+    "moving_averages": {
+      "ma_20": 1487.95,
+      "price_vs_ma_20": 3.62,
+      "ma_50": 1474.26,
+      "price_vs_ma_50": 4.58,
+      "trend": "UP"
+    },
+    "proximity": {
+      "52w_high": 1942.22,
+      "52w_low": 1356.6,
+      "distance_from_high": -20.62,
+      "distance_from_low": 13.65
+    }
+  },
+  "last_updated": "2025-11-13T18:49:23.243257"
+}

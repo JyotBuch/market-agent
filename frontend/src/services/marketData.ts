@@ -5,7 +5,7 @@
 import axios from 'axios';
 import type { StockSummary, PriceData } from '../types';
 
-// Base URL for data - in production, this will be the GitHub Pages URL
+// Base URL for data - empty for dev (served from public), set for production
 const BASE_URL = import.meta.env.VITE_DATA_URL || '';
 
 /**
@@ -13,10 +13,16 @@ const BASE_URL = import.meta.env.VITE_DATA_URL || '';
  */
 export const fetchStockSummary = async (ticker: string): Promise<StockSummary> => {
   try {
-    const response = await axios.get(`${BASE_URL}/data/summary/${ticker}.json`);
+    // Remove .NS suffix for file lookup (ticker should already be clean from getTickerName)
+    const fileTicker = ticker.replace('.NS', '').replace('.BO', '');
+    const url = `${BASE_URL}/data/summary/${fileTicker}.json`;
+    console.log('Fetching summary from:', url);
+    const response = await axios.get(url);
+    console.log('Successfully fetched:', fileTicker);
     return response.data;
   } catch (error) {
     console.error(`Error fetching summary for ${ticker}:`, error);
+    console.error('Attempted URL:', `${BASE_URL}/data/summary/${ticker}.json`);
     throw new Error(`Failed to fetch data for ${ticker}`);
   }
 };
@@ -26,7 +32,9 @@ export const fetchStockSummary = async (ticker: string): Promise<StockSummary> =
  */
 export const fetchPriceHistory = async (ticker: string): Promise<PriceData[]> => {
   try {
-    const response = await axios.get(`${BASE_URL}/data/prices/${ticker}.json`);
+    // Remove .NS suffix for file lookup
+    const fileTicker = ticker.replace('.NS', '');
+    const response = await axios.get(`${BASE_URL}/data/prices/${fileTicker}.json`);
     return response.data;
   } catch (error) {
     console.error(`Error fetching prices for ${ticker}:`, error);

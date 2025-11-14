@@ -1,0 +1,35 @@
+{
+  "ticker": "HINDUNILVR.NS",
+  "company_name": "Hindustan Unilever Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 2407.6,
+  "previous_close": 2424.5,
+  "change": -16.9,
+  "change_percent": -0.7,
+  "volume": 1255850,
+  "market_cap": 5755221049344,
+  "pe_ratio": 51.988773,
+  "recommendation": "HOLD",
+  "rationale": "Downtrend | Near 52-week low | Near 52-week high",
+  "confidence": 0.3,
+  "metrics": {
+    "returns": {
+      "last_month": -3.67
+    },
+    "moving_averages": {
+      "ma_20": 2473.86,
+      "price_vs_ma_20": -2.68,
+      "ma_50": 2514.79,
+      "price_vs_ma_50": -4.26,
+      "trend": "DOWN"
+    },
+    "proximity": {
+      "52w_high": 2671.6,
+      "52w_low": 2118.25,
+      "distance_from_high": -9.88,
+      "distance_from_low": 13.66
+    }
+  },
+  "last_updated": "2025-11-13T18:49:27.094461"
+}

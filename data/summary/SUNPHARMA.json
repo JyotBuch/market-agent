@@ -1,0 +1,35 @@
+{
+  "ticker": "SUNPHARMA.NS",
+  "company_name": "Sun Pharmaceutical Industries Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 1737.4,
+  "previous_close": 1732.1,
+  "change": 5.3,
+  "change_percent": 0.31,
+  "volume": 1727590,
+  "market_cap": 4168604450816,
+  "pe_ratio": 39.80298,
+  "recommendation": "HOLD",
+  "rationale": "Uptrend | Near 52-week low | Near 52-week high",
+  "confidence": 0.3,
+  "metrics": {
+    "returns": {
+      "last_month": 4.97
+    },
+    "moving_averages": {
+      "ma_20": 1697.19,
+      "price_vs_ma_20": 2.37,
+      "ma_50": 1652.84,
+      "price_vs_ma_50": 5.12,
+      "trend": "UP"
+    },
+    "proximity": {
+      "52w_high": 1872.46,
+      "52w_low": 1561.36,
+      "distance_from_high": -7.21,
+      "distance_from_low": 11.27
+    }
+  },
+  "last_updated": "2025-11-13T18:49:36.467464"
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "WIPRO.NS",
+  "company_name": "Wipro Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 245.33,
+  "previous_close": 245.22,
+  "change": 0.11,
+  "change_percent": 0.04,
+  "volume": 6209517,
+  "market_cap": 2569257877504,
+  "pe_ratio": 19.09183,
+  "recommendation": "HOLD",
+  "rationale": "Near 52-week low",
+  "confidence": 0.2,
+  "metrics": {
+    "returns": {
+      "last_month": -1.95
+    },
+    "moving_averages": {
+      "ma_20": 242.04,
+      "price_vs_ma_20": 1.36,
+      "ma_50": 245.13,
+      "price_vs_ma_50": 0.08,
+      "trend": "FLAT"
+    },
+    "proximity": {
+      "52w_high": 312.9,
+      "52w_low": 229.63,
+      "distance_from_high": -21.59,
+      "distance_from_low": 6.84
+    }
+  },
+  "last_updated": "2025-11-13T18:49:32.509049"
+}

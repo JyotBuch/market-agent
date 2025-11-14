@@ -1,0 +1,35 @@
+{
+  "ticker": "KOTAKBANK.NS",
+  "company_name": "Kotak Mahindra Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 2075.2,
+  "previous_close": 2084.5,
+  "change": -9.3,
+  "change_percent": -0.45,
+  "volume": 2142284,
+  "market_cap": 4161768259584,
+  "pe_ratio": 22.220795,
+  "recommendation": "HOLD",
+  "rationale": "Near 52-week high",
+  "confidence": 0.2,
+  "metrics": {
+    "returns": {
+      "last_month": -3.46
+    },
+    "moving_averages": {
+      "ma_20": 2137.57,
+      "price_vs_ma_20": -2.92,
+      "ma_50": 2079.19,
+      "price_vs_ma_50": -0.19,
+      "trend": "FLAT"
+    },
+    "proximity": {
+      "52w_high": 2266.19,
+      "52w_low": 1685.91,
+      "distance_from_high": -8.43,
+      "distance_from_low": 23.09
+    }
+  },
+  "last_updated": "2025-11-13T18:49:28.726501"
+}
