@@ -3,33 +3,33 @@
   "company_name": "Hindustan Unilever Limited",
   "sector": "Consumer Defensive",
   "industry": "Household & Personal Products",
-  "current_price": 2407.6,
-  "previous_close": 2424.5,
-  "change": -16.9,
-  "change_percent": -0.7,
-  "volume": 1256059,
-  "market_cap": 5755221049344,
-  "pe_ratio": 51.988773,
+  "current_price": 2404.0,
+  "previous_close": 2425.0,
+  "change": -21.0,
+  "change_percent": -0.87,
+  "volume": 1228895,
+  "market_cap": 5648529489920,
+  "pe_ratio": 51.899826,
   "recommendation": "HOLD",
-  "rationale": "Downtrend | Near 52-week low | Near 52-week high",
+  "rationale": "Downtrend | Weak monthly return (-6.61%) | Near 52-week low",
   "confidence": 0.3,
   "metrics": {
     "returns": {
-      "last_month": -3.67
+      "last_month": -6.61
     },
     "moving_averages": {
-      "ma_20": 2473.86,
-      "price_vs_ma_20": -2.68,
-      "ma_50": 2514.79,
-      "price_vs_ma_50": -4.26,
+      "ma_20": 2451.74,
+      "price_vs_ma_20": -1.95,
+      "ma_50": 2501.87,
+      "price_vs_ma_50": -3.91,
       "trend": "DOWN"
     },
     "proximity": {
       "52w_high": 2671.6,
       "52w_low": 2118.25,
-      "distance_from_high": -9.88,
-      "distance_from_low": 13.66
+      "distance_from_high": -10.02,
+      "distance_from_low": 13.49
     }
   },
-  "last_updated": "2025-11-13T19:39:14.461085"
+  "last_updated": "2025-11-18T11:11:38.425933"
 }

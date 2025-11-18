@@ -3,33 +3,33 @@
   "company_name": "Kotak Mahindra Bank Limited",
   "sector": "Financial Services",
   "industry": "Banks - Regional",
-  "current_price": 2075.2,
-  "previous_close": 2084.5,
-  "change": -9.3,
-  "change_percent": -0.45,
-  "volume": 2142306,
-  "market_cap": 4161768259584,
-  "pe_ratio": 22.220795,
-  "recommendation": "HOLD",
-  "rationale": "Near 52-week high",
-  "confidence": 0.2,
+  "current_price": 2093.1,
+  "previous_close": 2102.9,
+  "change": -9.8,
+  "change_percent": -0.47,
+  "volume": 2060029,
+  "market_cap": 4162323218432,
+  "pe_ratio": 22.417265,
+  "recommendation": "SELL",
+  "rationale": "Weak monthly return (-5.45%) | Near 52-week high",
+  "confidence": 0.4,
   "metrics": {
     "returns": {
-      "last_month": -3.46
+      "last_month": -5.45
     },
     "moving_averages": {
-      "ma_20": 2137.57,
-      "price_vs_ma_20": -2.92,
-      "ma_50": 2079.19,
-      "price_vs_ma_50": -0.19,
+      "ma_20": 2120.11,
+      "price_vs_ma_20": -1.27,
+      "ma_50": 2087.6,
+      "price_vs_ma_50": 0.26,
       "trend": "FLAT"
     },
     "proximity": {
       "52w_high": 2266.19,
       "52w_low": 1685.91,
-      "distance_from_high": -8.43,
-      "distance_from_low": 23.09
+      "distance_from_high": -7.64,
+      "distance_from_low": 24.15
     }
   },
-  "last_updated": "2025-11-13T19:39:15.644675"
+  "last_updated": "2025-11-18T11:11:39.578256"
 }

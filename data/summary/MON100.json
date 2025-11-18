@@ -3,33 +3,33 @@
   "company_name": "Motilal Oswal NASDAQ 100 ETF",
   "sector": null,
   "industry": null,
-  "current_price": 240.32,
-  "previous_close": 243.37,
-  "change": -3.05,
-  "change_percent": -1.25,
-  "volume": 1156504,
+  "current_price": 234.28,
+  "previous_close": 235.78,
+  "change": -1.5,
+  "change_percent": -0.64,
+  "volume": 1438346,
   "market_cap": null,
-  "pe_ratio": 38.017513,
+  "pe_ratio": 37.06201,
   "recommendation": "HOLD",
-  "rationale": "Uptrend | Near 52-week high",
-  "confidence": 0.1,
+  "rationale": "Near 52-week high",
+  "confidence": 0.2,
   "metrics": {
     "returns": {
-      "last_month": 3.04
+      "last_month": -2.04
     },
     "moving_averages": {
-      "ma_20": 239.93,
-      "price_vs_ma_20": 0.16,
-      "ma_50": 227.64,
-      "price_vs_ma_50": 5.57,
-      "trend": "UP"
+      "ma_20": 239.67,
+      "price_vs_ma_20": -2.25,
+      "ma_50": 229.57,
+      "price_vs_ma_50": 2.05,
+      "trend": "FLAT"
     },
     "proximity": {
       "52w_high": 250.26,
       "52w_low": 163.33,
-      "distance_from_high": -3.97,
-      "distance_from_low": 47.14
+      "distance_from_high": -6.39,
+      "distance_from_low": 43.44
     }
   },
-  "last_updated": "2025-11-13T19:39:28.900288"
+  "last_updated": "2025-11-18T11:11:48.357332"
 }

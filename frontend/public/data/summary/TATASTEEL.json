@@ -3,33 +3,33 @@
   "company_name": "Tata Steel Limited",
   "sector": "Basic Materials",
   "industry": "Steel",
-  "current_price": 176.65,
-  "previous_close": 178.61,
-  "change": -1.96,
-  "change_percent": -1.1,
-  "volume": 82083661,
-  "market_cap": 2255328641024,
-  "pe_ratio": 32.412846,
+  "current_price": 172.45,
+  "previous_close": 173.17,
+  "change": -0.72,
+  "change_percent": -0.42,
+  "volume": 34274171,
+  "market_cap": 2150770147328,
+  "pe_ratio": 31.642202,
   "recommendation": "HOLD",
   "rationale": "Near 52-week high",
   "confidence": 0.2,
   "metrics": {
     "returns": {
-      "last_month": 1.97
+      "last_month": 0.29
     },
     "moving_averages": {
-      "ma_20": 178.4,
-      "price_vs_ma_20": -0.98,
-      "ma_50": 173.78,
-      "price_vs_ma_50": 1.65,
+      "ma_20": 178.49,
+      "price_vs_ma_20": -3.38,
+      "ma_50": 174.13,
+      "price_vs_ma_50": -0.97,
       "trend": "FLAT"
     },
     "proximity": {
       "52w_high": 185.19,
       "52w_low": 120.13,
-      "distance_from_high": -4.61,
-      "distance_from_low": 47.05
+      "distance_from_high": -6.88,
+      "distance_from_low": 43.55
     }
   },
-  "last_updated": "2025-11-13T19:39:24.288079"
+  "last_updated": "2025-11-18T11:11:44.329777"
 }

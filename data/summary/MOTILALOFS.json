@@ -3,33 +3,33 @@
   "company_name": "Motilal Oswal Financial Services Limited",
   "sector": "Financial Services",
   "industry": "Capital Markets",
-  "current_price": 990.65,
-  "previous_close": 996.65,
-  "change": -6.0,
-  "change_percent": -0.6,
-  "volume": 1136370,
-  "market_cap": 594894520320,
-  "pe_ratio": 30.028795,
+  "current_price": 972.1,
+  "previous_close": 984.4,
+  "change": -12.3,
+  "change_percent": -1.25,
+  "volume": 1632330,
+  "market_cap": 584310259712,
+  "pe_ratio": 29.47544,
   "recommendation": "HOLD",
-  "rationale": "Near 52-week high",
-  "confidence": 0.2,
+  "rationale": "Mixed signals",
+  "confidence": 0.0,
   "metrics": {
     "returns": {
-      "last_month": -2.81
+      "last_month": -4.73
     },
     "moving_averages": {
-      "ma_20": 1010.94,
-      "price_vs_ma_20": -2.01,
-      "ma_50": 962.46,
-      "price_vs_ma_50": 2.93,
+      "ma_20": 1006.75,
+      "price_vs_ma_20": -3.44,
+      "ma_50": 968.92,
+      "price_vs_ma_50": 0.33,
       "trend": "FLAT"
     },
     "proximity": {
       "52w_high": 1091.3,
       "52w_low": 565.65,
-      "distance_from_high": -9.22,
-      "distance_from_low": 75.13
+      "distance_from_high": -10.92,
+      "distance_from_low": 71.86
     }
   },
-  "last_updated": "2025-11-13T19:39:27.524358"
+  "last_updated": "2025-11-18T11:11:47.144794"
 }

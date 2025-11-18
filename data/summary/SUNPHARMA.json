@@ -3,33 +3,33 @@
   "company_name": "Sun Pharmaceutical Industries Limited",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - Specialty & Generic",
-  "current_price": 1737.4,
-  "previous_close": 1732.1,
-  "change": 5.3,
-  "change_percent": 0.31,
-  "volume": 1727602,
-  "market_cap": 4168604450816,
-  "pe_ratio": 39.80298,
+  "current_price": 1758.8,
+  "previous_close": 1763.9,
+  "change": -5.1,
+  "change_percent": -0.29,
+  "volume": 1429518,
+  "market_cap": 4219950333952,
+  "pe_ratio": 40.367226,
   "recommendation": "HOLD",
   "rationale": "Uptrend | Near 52-week low | Near 52-week high",
   "confidence": 0.3,
   "metrics": {
     "returns": {
-      "last_month": 4.97
+      "last_month": 4.16
     },
     "moving_averages": {
-      "ma_20": 1697.19,
-      "price_vs_ma_20": 2.37,
-      "ma_50": 1652.84,
-      "price_vs_ma_50": 5.12,
+      "ma_20": 1709.85,
+      "price_vs_ma_20": 2.86,
+      "ma_50": 1663.35,
+      "price_vs_ma_50": 5.74,
       "trend": "UP"
     },
     "proximity": {
       "52w_high": 1872.46,
       "52w_low": 1561.36,
-      "distance_from_high": -7.21,
-      "distance_from_low": 11.27
+      "distance_from_high": -6.07,
+      "distance_from_low": 12.65
     }
   },
-  "last_updated": "2025-11-13T19:39:25.070022"
+  "last_updated": "2025-11-18T11:11:44.970947"
 }

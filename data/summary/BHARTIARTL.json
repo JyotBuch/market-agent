@@ -3,33 +3,33 @@
   "company_name": "Bharti Airtel Limited",
   "sector": "Communication Services",
   "industry": "Telecom Services",
-  "current_price": 2091.8,
-  "previous_close": 2073.8,
-  "change": 18.0,
-  "change_percent": 0.87,
-  "volume": 5958875,
-  "market_cap": 12431571025920,
-  "pe_ratio": 32.53694,
+  "current_price": 2149.2,
+  "previous_close": 2112.2,
+  "change": 37.0,
+  "change_percent": 1.75,
+  "volume": 10972361,
+  "market_cap": 13090948120576,
+  "pe_ratio": 33.47142,
   "recommendation": "HOLD",
-  "rationale": "Uptrend | Strong monthly return (6.26%) | Near 52-week high",
-  "confidence": 0.3,
+  "rationale": "Uptrend | Near 52-week high",
+  "confidence": 0.1,
   "metrics": {
     "returns": {
-      "last_month": 6.26
+      "last_month": 4.76
     },
     "moving_averages": {
-      "ma_20": 2056.39,
-      "price_vs_ma_20": 1.72,
-      "ma_50": 1974.3,
-      "price_vs_ma_50": 5.95,
+      "ma_20": 2072.95,
+      "price_vs_ma_20": 3.68,
+      "ma_50": 1988.35,
+      "price_vs_ma_50": 8.09,
       "trend": "UP"
     },
     "proximity": {
-      "52w_high": 2113.3,
+      "52w_high": 2149.2,
       "52w_low": 1512.51,
-      "distance_from_high": -1.02,
-      "distance_from_low": 38.3
+      "distance_from_high": 0.0,
+      "distance_from_low": 42.1
     }
   },
-  "last_updated": "2025-11-13T19:39:10.958139"
+  "last_updated": "2025-11-18T11:11:37.481753"
 }

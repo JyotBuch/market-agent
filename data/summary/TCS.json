@@ -3,33 +3,33 @@
   "company_name": "Tata Consultancy Services Limited",
   "sector": "Technology",
   "industry": "Information Technology Services",
-  "current_price": 3105.7,
-  "previous_close": 3131.8,
-  "change": -26.1,
-  "change_percent": -0.83,
-  "volume": 1740435,
-  "market_cap": 11236693508096,
-  "pe_ratio": 22.74405,
+  "current_price": 3087.1,
+  "previous_close": 3102.2,
+  "change": -15.1,
+  "change_percent": -0.49,
+  "volume": 2548113,
+  "market_cap": 11169397997568,
+  "pe_ratio": 22.616117,
   "recommendation": "BUY",
   "rationale": "Uptrend | Near 52-week low",
   "confidence": 0.5,
   "metrics": {
     "returns": {
-      "last_month": 4.58
+      "last_month": 2.38
     },
     "moving_averages": {
-      "ma_20": 3034.72,
-      "price_vs_ma_20": 2.34,
-      "ma_50": 3029.32,
-      "price_vs_ma_50": 2.52,
+      "ma_20": 3052.08,
+      "price_vs_ma_20": 1.15,
+      "ma_50": 3031.09,
+      "price_vs_ma_50": 1.85,
       "trend": "UP"
     },
     "proximity": {
       "52w_high": 4323.51,
       "52w_low": 2877.67,
-      "distance_from_high": -28.17,
-      "distance_from_low": 7.92
+      "distance_from_high": -28.6,
+      "distance_from_low": 7.28
     }
   },
-  "last_updated": "2025-11-13T19:39:07.468773"
+  "last_updated": "2025-11-18T11:11:34.573609"
 }

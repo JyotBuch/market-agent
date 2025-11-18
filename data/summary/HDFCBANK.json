@@ -3,33 +3,33 @@
   "company_name": "HDFC Bank Limited",
   "sector": "Financial Services",
   "industry": "Banks - Regional",
-  "current_price": 986.65,
-  "previous_close": 989.5,
-  "change": -2.85,
-  "change_percent": -0.29,
-  "volume": 14124839,
-  "market_cap": 15171376381952,
-  "pe_ratio": 22.557156,
+  "current_price": 992.45,
+  "previous_close": 996.55,
+  "change": -4.1,
+  "change_percent": -0.41,
+  "volume": 20002372,
+  "market_cap": 15263621709824,
+  "pe_ratio": 22.684572,
   "recommendation": "HOLD",
   "rationale": "Near 52-week high",
   "confidence": 0.2,
   "metrics": {
     "returns": {
-      "last_month": 0.86
+      "last_month": -1.05
     },
     "moving_averages": {
-      "ma_20": 994.67,
-      "price_vs_ma_20": -0.81,
-      "ma_50": 977.46,
-      "price_vs_ma_50": 0.94,
+      "ma_20": 993.61,
+      "price_vs_ma_20": -0.12,
+      "ma_50": 979.45,
+      "price_vs_ma_50": 1.33,
       "trend": "FLAT"
     },
     "proximity": {
       "52w_high": 1012.9,
       "52w_low": 804.03,
-      "distance_from_high": -2.59,
-      "distance_from_low": 22.71
+      "distance_from_high": -2.02,
+      "distance_from_low": 23.43
     }
   },
-  "last_updated": "2025-11-13T19:39:08.795792"
+  "last_updated": "2025-11-18T11:11:35.913628"
 }

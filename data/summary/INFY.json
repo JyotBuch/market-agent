@@ -3,33 +3,33 @@
   "company_name": "Infosys Limited",
   "sector": "Technology",
   "industry": "Information Technology Services",
-  "current_price": 1541.8,
-  "previous_close": 1551.7,
-  "change": -9.9,
-  "change_percent": -0.64,
-  "volume": 19655689,
-  "market_cap": 6391239016448,
-  "pe_ratio": 21.981752,
-  "recommendation": "BUY",
-  "rationale": "Uptrend | Strong monthly return (6.17%) | Near 52-week low",
-  "confidence": 0.7,
+  "current_price": 1486.4,
+  "previous_close": 1507.6,
+  "change": -21.2,
+  "change_percent": -1.41,
+  "volume": 7324631,
+  "market_cap": 6161588813824,
+  "pe_ratio": 21.203995,
+  "recommendation": "HOLD",
+  "rationale": "Near 52-week low",
+  "confidence": 0.2,
   "metrics": {
     "returns": {
-      "last_month": 6.17
+      "last_month": 3.3
     },
     "moving_averages": {
-      "ma_20": 1487.95,
-      "price_vs_ma_20": 3.62,
-      "ma_50": 1474.26,
-      "price_vs_ma_50": 4.58,
-      "trend": "UP"
+      "ma_20": 1497.41,
+      "price_vs_ma_20": -0.74,
+      "ma_50": 1477.79,
+      "price_vs_ma_50": 0.58,
+      "trend": "FLAT"
     },
     "proximity": {
       "52w_high": 1942.22,
       "52w_low": 1356.6,
-      "distance_from_high": -20.62,
-      "distance_from_low": 13.65
+      "distance_from_high": -23.47,
+      "distance_from_low": 9.57
     }
   },
-  "last_updated": "2025-11-13T19:39:08.092094"
+  "last_updated": "2025-11-18T11:11:35.254392"
 }
