@@ -1,0 +1,35 @@
+{
+  "ticker": "MARUTI.NS",
+  "company_name": "Maruti Suzuki India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "current_price": 15930.0,
+  "previous_close": 15878.0,
+  "change": 52.0,
+  "change_percent": 0.33,
+  "volume": 392818,
+  "market_cap": 5008432562176,
+  "pe_ratio": 33.89434,
+  "recommendation": "HOLD",
+  "rationale": "Near 52-week high",
+  "confidence": 0.2,
+  "metrics": {
+    "returns": {
+      "last_month": -3.01
+    },
+    "moving_averages": {
+      "ma_20": 15889.35,
+      "price_vs_ma_20": 0.26,
+      "ma_50": 15900.92,
+      "price_vs_ma_50": 0.18,
+      "trend": "FLAT"
+    },
+    "proximity": {
+      "52w_high": 16424.0,
+      "52w_low": 10621.64,
+      "distance_from_high": -3.01,
+      "distance_from_low": 49.98
+    }
+  },
+  "last_updated": "2025-11-18T11:11:40.541068"
+}

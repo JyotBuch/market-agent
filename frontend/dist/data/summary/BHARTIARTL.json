@@ -1,0 +1,35 @@
+{
+  "ticker": "BHARTIARTL.NS",
+  "company_name": "Bharti Airtel Limited",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "current_price": 2149.2,
+  "previous_close": 2112.2,
+  "change": 37.0,
+  "change_percent": 1.75,
+  "volume": 10972361,
+  "market_cap": 13090948120576,
+  "pe_ratio": 33.47142,
+  "recommendation": "HOLD",
+  "rationale": "Uptrend | Near 52-week high",
+  "confidence": 0.1,
+  "metrics": {
+    "returns": {
+      "last_month": 4.76
+    },
+    "moving_averages": {
+      "ma_20": 2072.95,
+      "price_vs_ma_20": 3.68,
+      "ma_50": 1988.35,
+      "price_vs_ma_50": 8.09,
+      "trend": "UP"
+    },
+    "proximity": {
+      "52w_high": 2149.2,
+      "52w_low": 1512.51,
+      "distance_from_high": 0.0,
+      "distance_from_low": 42.1
+    }
+  },
+  "last_updated": "2025-11-18T11:11:37.481753"
+}

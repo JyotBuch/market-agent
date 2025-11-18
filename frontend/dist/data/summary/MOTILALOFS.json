@@ -1,0 +1,35 @@
+{
+  "ticker": "MOTILALOFS.NS",
+  "company_name": "Motilal Oswal Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 972.1,
+  "previous_close": 984.4,
+  "change": -12.3,
+  "change_percent": -1.25,
+  "volume": 1632330,
+  "market_cap": 584310259712,
+  "pe_ratio": 29.47544,
+  "recommendation": "HOLD",
+  "rationale": "Mixed signals",
+  "confidence": 0.0,
+  "metrics": {
+    "returns": {
+      "last_month": -4.73
+    },
+    "moving_averages": {
+      "ma_20": 1006.75,
+      "price_vs_ma_20": -3.44,
+      "ma_50": 968.92,
+      "price_vs_ma_50": 0.33,
+      "trend": "FLAT"
+    },
+    "proximity": {
+      "52w_high": 1091.3,
+      "52w_low": 565.65,
+      "distance_from_high": -10.92,
+      "distance_from_low": 71.86
+    }
+  },
+  "last_updated": "2025-11-18T11:11:47.144794"
+}

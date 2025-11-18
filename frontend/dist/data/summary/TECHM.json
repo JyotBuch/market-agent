@@ -1,0 +1,35 @@
+{
+  "ticker": "TECHM.NS",
+  "company_name": "Tech Mahindra Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 1422.0,
+  "previous_close": 1452.8,
+  "change": -30.8,
+  "change_percent": -2.12,
+  "volume": 1552810,
+  "market_cap": 1259074355200,
+  "pe_ratio": 28.125,
+  "recommendation": "HOLD",
+  "rationale": "Downtrend | Near 52-week low",
+  "confidence": 0.1,
+  "metrics": {
+    "returns": {
+      "last_month": -1.55
+    },
+    "moving_averages": {
+      "ma_20": 1432.61,
+      "price_vs_ma_20": -0.74,
+      "ma_50": 1446.95,
+      "price_vs_ma_50": -1.72,
+      "trend": "DOWN"
+    },
+    "proximity": {
+      "52w_high": 1745.89,
+      "52w_low": 1236.96,
+      "distance_from_high": -18.55,
+      "distance_from_low": 14.96
+    }
+  },
+  "last_updated": "2025-11-18T11:11:43.100428"
+}
