@@ -1,0 +1,35 @@
+{
+  "ticker": "TATASTEEL.NS",
+  "company_name": "Tata Steel Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 172.45,
+  "previous_close": 173.17,
+  "change": -0.72,
+  "change_percent": -0.42,
+  "volume": 34274171,
+  "market_cap": 2150770147328,
+  "pe_ratio": 31.642202,
+  "recommendation": "HOLD",
+  "rationale": "Near 52-week high",
+  "confidence": 0.2,
+  "metrics": {
+    "returns": {
+      "last_month": 0.29
+    },
+    "moving_averages": {
+      "ma_20": 178.49,
+      "price_vs_ma_20": -3.38,
+      "ma_50": 174.13,
+      "price_vs_ma_50": -0.97,
+      "trend": "FLAT"
+    },
+    "proximity": {
+      "52w_high": 185.19,
+      "52w_low": 120.13,
+      "distance_from_high": -6.88,
+      "distance_from_low": 43.55
+    }
+  },
+  "last_updated": "2025-11-18T11:11:44.329777"
+}

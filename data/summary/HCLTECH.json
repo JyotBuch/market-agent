@@ -1,0 +1,35 @@
+{
+  "ticker": "HCLTECH.NS",
+  "company_name": "HCL Technologies Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 1595.2,
+  "previous_close": 1606.4,
+  "change": -11.2,
+  "change_percent": -0.7,
+  "volume": 1640065,
+  "market_cap": 4321884241920,
+  "pe_ratio": 25.46209,
+  "recommendation": "BUY",
+  "rationale": "Uptrend | Strong monthly return (6.67%)",
+  "confidence": 0.5,
+  "metrics": {
+    "returns": {
+      "last_month": 6.67
+    },
+    "moving_averages": {
+      "ma_20": 1548.88,
+      "price_vs_ma_20": 2.99,
+      "ma_50": 1484.65,
+      "price_vs_ma_50": 7.45,
+      "trend": "UP"
+    },
+    "proximity": {
+      "52w_high": 1922.01,
+      "52w_low": 1337.19,
+      "distance_from_high": -17.0,
+      "distance_from_low": 19.29
+    }
+  },
+  "last_updated": "2025-11-18T11:11:42.495329"
+}

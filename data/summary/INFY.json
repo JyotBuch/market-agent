@@ -1,0 +1,35 @@
+{
+  "ticker": "INFY.NS",
+  "company_name": "Infosys Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 1486.4,
+  "previous_close": 1507.6,
+  "change": -21.2,
+  "change_percent": -1.41,
+  "volume": 7324631,
+  "market_cap": 6161588813824,
+  "pe_ratio": 21.203995,
+  "recommendation": "HOLD",
+  "rationale": "Near 52-week low",
+  "confidence": 0.2,
+  "metrics": {
+    "returns": {
+      "last_month": 3.3
+    },
+    "moving_averages": {
+      "ma_20": 1497.41,
+      "price_vs_ma_20": -0.74,
+      "ma_50": 1477.79,
+      "price_vs_ma_50": 0.58,
+      "trend": "FLAT"
+    },
+    "proximity": {
+      "52w_high": 1942.22,
+      "52w_low": 1356.6,
+      "distance_from_high": -23.47,
+      "distance_from_low": 9.57
+    }
+  },
+  "last_updated": "2025-11-18T11:11:35.254392"
+}

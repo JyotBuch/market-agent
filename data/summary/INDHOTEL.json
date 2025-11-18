@@ -1,0 +1,35 @@
+{
+  "ticker": "INDHOTEL.NS",
+  "company_name": "The Indian Hotels Company Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 712.75,
+  "previous_close": 722.3,
+  "change": -9.55,
+  "change_percent": -1.32,
+  "volume": 3166336,
+  "market_cap": 1014692184064,
+  "pe_ratio": 60.14768,
+  "recommendation": "HOLD",
+  "rationale": "Downtrend | Near 52-week low",
+  "confidence": 0.1,
+  "metrics": {
+    "returns": {
+      "last_month": -4.07
+    },
+    "moving_averages": {
+      "ma_20": 727.41,
+      "price_vs_ma_20": -2.01,
+      "ma_50": 739.67,
+      "price_vs_ma_50": -3.64,
+      "trend": "DOWN"
+    },
+    "proximity": {
+      "52w_high": 887.04,
+      "52w_low": 691.3,
+      "distance_from_high": -19.65,
+      "distance_from_low": 3.1
+    }
+  },
+  "last_updated": "2025-11-18T11:11:45.565154"
+}

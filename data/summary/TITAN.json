@@ -1,0 +1,35 @@
+{
+  "ticker": "TITAN.NS",
+  "company_name": "Titan Company Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "current_price": 3879.2,
+  "previous_close": 3868.6,
+  "change": 10.6,
+  "change_percent": 0.27,
+  "volume": 849933,
+  "market_cap": 3441025875968,
+  "pe_ratio": 83.56743,
+  "recommendation": "HOLD",
+  "rationale": "Uptrend | Near 52-week high",
+  "confidence": 0.1,
+  "metrics": {
+    "returns": {
+      "last_month": 3.8
+    },
+    "moving_averages": {
+      "ma_20": 3784.83,
+      "price_vs_ma_20": 2.49,
+      "ma_50": 3623.37,
+      "price_vs_ma_50": 7.06,
+      "trend": "UP"
+    },
+    "proximity": {
+      "52w_high": 3879.2,
+      "52w_low": 2977.99,
+      "distance_from_high": 0.0,
+      "distance_from_low": 30.26
+    }
+  },
+  "last_updated": "2025-11-18T11:11:40.973899"
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "ASIANPAINT.NS",
+  "company_name": "Asian Paints Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 2906.0,
+  "previous_close": 2883.4,
+  "change": 22.6,
+  "change_percent": 0.78,
+  "volume": 1818999,
+  "market_cap": 2785806123008,
+  "pe_ratio": 71.36542,
+  "recommendation": "HOLD",
+  "rationale": "Uptrend | Strong monthly return (15.68%) | Near 52-week high",
+  "confidence": 0.3,
+  "metrics": {
+    "returns": {
+      "last_month": 15.68
+    },
+    "moving_averages": {
+      "ma_20": 2619.59,
+      "price_vs_ma_20": 10.93,
+      "ma_50": 2502.62,
+      "price_vs_ma_50": 16.12,
+      "trend": "UP"
+    },
+    "proximity": {
+      "52w_high": 2906.0,
+      "52w_low": 2109.32,
+      "distance_from_high": 0.0,
+      "distance_from_low": 37.77
+    }
+  },
+  "last_updated": "2025-11-18T11:11:40.106775"
+}
